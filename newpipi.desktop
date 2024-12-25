@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=New PIPI Project
+Comment=Create new programming projects
+Exec=/usr/local/bin/newpipi
+Icon=/usr/share/icons/newpipi/ceferino.ico
+Terminal=false
+Type=Application
+Categories=Development;IDE;
+Keywords=project;programming;create; 
